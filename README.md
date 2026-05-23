@@ -1,5 +1,5 @@
 # energy-and-credit-risk-analysis
-This project focuses on energy price forecasting and financial risk analytics using Python, machine learning, statistical modeling, and data visualization techniques.
+This project was completed as part of the JPMorgan Chase & Co. Quantitative Research Virtual Experience Program, focusing on energy price forecasting, storage valuation, and credit risk analytics using Python, machine learning, and statistical modeling techniques.
 
 ## Financial Risk and Energy Analytics
 
@@ -77,7 +77,7 @@ This project focuses on credit risk analysis using customer loan data. Machine l
 
 ## Project Type
 
-Quantitative Finance and Risk Analytics Project
+JPMorgan Chase & Co. Virtual Experience Program Quantitative Research and Risk Analytics
 
 ## Project Workflow
 
