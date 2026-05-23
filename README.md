@@ -23,8 +23,6 @@ This project analyzes historical natural gas prices and develops forecasting mod
 ## Datasets for Task 1
 
 - Nat_Gas.csv
-- natural_gas_forecast.csv
-- storage_contract_results.csv
 
 ## Files Included in Task 1
 
@@ -58,7 +56,7 @@ This project focuses on credit risk analysis using customer loan data. Machine l
 ## Datasets for Task 2
 
 - Task_3_and_4_Loan_Data.csv
-- processed_loan_data.csv
+
 
 ## Files Included in Task 2
 
