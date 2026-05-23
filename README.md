@@ -15,7 +15,7 @@ This project analyzes historical natural gas prices and develops forecasting mod
 ## Objectives of Task 1
 
 - Analyze historical natural gas price trends
-- Forecast future natural gas prices using regression models
+- Forecast future natural gas prices using regression modelS
 - Perform interpolation for historical price estimation
 - Develop a storage contract pricing model
 - Generate insights for energy pricing and storage decisions
